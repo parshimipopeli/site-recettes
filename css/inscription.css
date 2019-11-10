@@ -1,11 +1,20 @@
+.inscription {
+    margin-right: 689px;
+    font-size: 4em;
+}
+
+.inscription h1 {
+    font-size: 1.2em;
+    letter-spacing: 10px;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    background-image: url(../img/recette4.jpg);
+}
+
 .content {
     display: flex;
     flex-wrap: wrap;
-    /* background-color: cadetblue; */
-}
-
-.list {
-    /* background-color: cadetblue; */
 }
 
 .form {
