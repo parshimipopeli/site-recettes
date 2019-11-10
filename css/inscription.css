@@ -1,0 +1,84 @@
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: cadetblue;
+}
+
+.list {
+    background-color: cadetblue;
+}
+
+.form {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.civil {
+    height: 600px;
+    width: 700px;
+    margin-left: 145px;
+}
+
+.adresse {
+    height: 600px;
+    width: 700px;
+}
+
+.cg {
+    margin-left: 72px;
+}
+
+.entree {
+    margin-top: 40px;
+}
+
+input,
+select {
+    width: 230px;
+    height: 30px;
+    margin-left: 145px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.surname {
+    margin-left: 200px;
+}
+
+.firstname {
+    margin-left: 184px;
+}
+
+.date {
+    margin-left: 122px;
+}
+
+.tel {
+    margin-left: 164px;
+}
+
+.number {
+    margin-left: 222px;
+    margin-top: 152px;
+}
+
+.rue {
+    margin-left: 215px;
+}
+
+.cp {
+    margin-left: 164px;
+}
+
+.ville {
+    margin-left: 207px;
+}
+
+select {
+    margin-left: 209px;
+}
+
+
+/* label {
+    font-size: 20px;
+} */
