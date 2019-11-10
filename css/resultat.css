@@ -1,0 +1,34 @@
+.resultat {
+    margin-right: 359px;
+}
+
+.resultat h1 {
+    font-size: 50px;
+    letter-spacing: 10px;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    background-image: url(../img/recette1.jpg);
+}
+
+table {
+    width: 80%;
+    height: 50%;
+    margin-top: 10px;
+}
+
+th {
+    width: 220px;
+}
+
+td {
+    width: 300px;
+    word-wrap: break-word;
+}
+
+tfoot td {
+    text-align: center;
+    height: 100px;
+    color: #e97562;
+    font-size: 50px;
+}

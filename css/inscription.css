@@ -4,12 +4,12 @@
 }
 
 .inscription h1 {
-    font-size: 1.2em;
+    font-size: 90px;
     letter-spacing: 10px;
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
-    background-image: url(../img/recette4.jpg);
+    background-image: url(../img/recette1.jpg);
 }
 
 .content {
