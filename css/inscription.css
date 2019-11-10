@@ -1,11 +1,11 @@
 .content {
     display: flex;
     flex-wrap: wrap;
-    background-color: cadetblue;
+    /* background-color: cadetblue; */
 }
 
 .list {
-    background-color: cadetblue;
+    /* background-color: cadetblue; */
 }
 
 .form {
@@ -26,6 +26,7 @@
 
 .cg {
     margin-left: 72px;
+    margin-top: -130px;
 }
 
 .entree {
