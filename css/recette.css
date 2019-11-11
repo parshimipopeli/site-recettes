@@ -1,25 +1,40 @@
-.ingredient {
-    height: 300px;
-    width: 500px;
-    margin-top: -600px;
-}
-
-.ing li {
-    margin-top: 15px;
-    font-size: 20px;
+h1 {
+    font-size: 40px;
+    letter-spacing: 20px;
+    text-decoration-line: underline;
 }
 
 .prepa {
     display: flex;
+    justify-content: center;
 }
 
-.preparation {
-    margin-top: -600px;
+.galery {
+    align-items: center;
+    margin-top: -255px;
+}
+
+
+/* .ing li {
+    margin-top: 10!important;
+} */
+
+.ing li {
+    margin-top: 20px!important;
+    font-size: 18px;
 }
 
 ol li {
-    margin-top: 15px;
-    margin-right: 1053px;
-    text-align: justify;
-    font-size: 20px;
+    margin-top: 40px;
+    font-size: 18px;
+}
+
+ol {
+    color: #e97562;
+}
+
+hr {
+    width: 25px;
+    margin-left: 30px;
+    background-color: #43383b;
 }
