@@ -4,6 +4,7 @@
 }
 
 .inscription h1 {
+    font-family: 'Dancing Script', cursive;
     font-size: 90px;
     letter-spacing: 10px;
     background-clip: text;

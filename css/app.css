@@ -28,6 +28,7 @@ html {
     font-size: 45px;
     color: #43383b;
     letter-spacing: 10px;
+    font-family: 'Dancing Script', cursive;
 }
 
 .login {
@@ -110,6 +111,13 @@ figcaption {
 }
 
 .footer {
+    display: flex;
+    /* justify-content: center; */
+    justify-content: space-around;
     height: 100px;
     background-color: #43383b;
+}
+
+.reseaux {
+    align-self: center;
 }

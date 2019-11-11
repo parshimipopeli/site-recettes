@@ -3,6 +3,7 @@
 }
 
 .resultat h1 {
+    font-family: 'Dancing Script', cursive;
     font-size: 50px;
     letter-spacing: 10px;
     background-clip: text;
