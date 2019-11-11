@@ -119,5 +119,12 @@ figcaption {
 }
 
 .reseaux {
+    align-content: flex-end;
     align-self: center;
+}
+
+.reseau {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
 }
